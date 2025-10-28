@@ -61,7 +61,7 @@ This project employs a variety of vivid, dark-themed visualizations to bring the
 ### 💡 Insight:
 Visualization is the heart of analytics — it converts abstract data into concrete understanding, helping stakeholders make informed decisions.
 
-###⚙️ 4️⃣ Analytical Insights and Key Observations
+### ⚙️ 4️⃣ Analytical Insights and Key Observations
 ### 🧭 Core Findings:
 - Business Development, Marketing, and Design emerged as the most offered internship roles.
 - Top Talent Bridge, Stirring Minds, and HappiMynd ranked as leading internship providers.
